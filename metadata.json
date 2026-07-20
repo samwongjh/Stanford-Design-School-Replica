@@ -1,0 +1,6 @@
+{
+  "name": "Stanford d.school Explorer",
+  "description": "An interactive, highly-polished replica of the Stanford d.school homepage with dynamic filtering, search capabilities, and modal detail views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
